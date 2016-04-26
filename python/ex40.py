@@ -17,3 +17,11 @@ bulls_on_parade = Song(["They rally around the family",
 happy_bday.sing_me_a_song()
 
 bulls_on_parade.sing_me_a_song()
+
+newsong = ["happy_dwbday to you",
+	        "I dondw't want to get sued",
+	        "So Idw'll stop right there"]
+
+new_song = Song(newsong)
+
+new_song.sing_me_a_song()
